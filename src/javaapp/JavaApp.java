@@ -22,7 +22,7 @@ public class JavaApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        JavaApp j  = new JavaApp("fsdfsd");
         
     }
     
